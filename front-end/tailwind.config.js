@@ -23,6 +23,9 @@ export default {
       boxShadow: {
         'custom': '0px 10px 33px -3px rgba(0,0,0,0.1)',
       },
+      fontFamily:{
+        poppins:["poppins, sans-serif"],
+      }
     },
   },
   plugins: [],
