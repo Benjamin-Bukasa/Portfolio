@@ -6,17 +6,17 @@ export default {
   ],
   theme: {
     screens:{
-      'vsm':'280px',
+      'vsm':'380px',
       // => @media (min-width:280px){ ... }
-      'sm':'640px',
+      'ssm':'640px',
       // => @media (min-width:640px){ ... }
-      'md':'768px',
+      'smd':'768px',
       // => @media (min-width:768px){ ... }
-      'lg':'1024px',
+      'slg':'1024px',
       // => @media (min-width:1024px){ ... }
-      'xl':'1280px',
+      'sxl':'1280px',
       // => @media (min-width:1280px){ ... }
-      '2xl':'1440px',
+      's2xl':'1440px',
       // => @media (min-width:1440px){ ... }
     },
     extend: {

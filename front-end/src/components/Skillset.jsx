@@ -8,7 +8,7 @@ function Skillset() {
                 <p className="font-semibold text-[#B9525B] text-[17px]">Aperçu</p>
                 <h3 className="text-[35px] font-bold">Expériences sur des projets réels</h3>
             </div>
-            <p className="text-justify">Bien qu'étant développeur full-stack, la plupart de me contribution sur des projets de développement web et mobile ont été basées sur le font-end, entre autre l'accessibilité la minipulation du dom, la gestion de vue etc... </p>
+            <p className="text-justify">Bien q u'étant développeur full-stack, la plupart de me contribution sur des projets de développement web et mobile ont été basées sur le font-end, entre autre l'accessibilité la minipulation du dom, la gestion de vue etc... </p>
             
                 <button className="w-48  p-2 bg-[#cf6f77] hover:bg-[#B9525B] font-semibold text-white">Me contacter</button>
         </div>

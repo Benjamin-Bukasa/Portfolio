@@ -11,8 +11,8 @@ import { SiPhpmyadmin } from "react-icons/si";
 
 function Techs() {
   return (
-    <div className="w-full h-64 px-20 py-40 flex flex-col justify-center items-center gap-4">
-        <h2 className="font-semibold text-[45px]">Mes technologies utilisées</h2>
+    <div className="w-full px-20 py-40 vsm:py-5 flex flex-col justify-center items-center gap-4">
+        <h2 className="font-semibold text-[45px] vsm:text-[30px] vsm:text-center">Mes technologies utilisées</h2>
         <div className="w-full flex flex-wrap justify-center items-center gap-10  py-4">
             <ImHtmlFive size={75}  className="hover:text-[#f97316] text-zinc-400"/>
             <SiCss3 size={75} className="hover:text-[#1d4ed8] text-zinc-400"/>
