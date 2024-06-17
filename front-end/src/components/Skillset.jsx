@@ -13,7 +13,7 @@ function Skillset() {
                 <button className="w-48  p-2 bg-[#cf6f77] hover:bg-[#B9525B] font-semibold text-white">Me contacter</button>
         </div>
         <div className="w-1/3 flex flex-col gap-10">
-            <ProgressBar title="HTML, CSS (Tailwindcss) ET JAVASCRIPT" width ="35%"/>
+            <ProgressBar title="HTML, CSS (Tailwindcss) ET JAVASCRIPT" width ="85%"/>
             <ProgressBar title="PHP" width ="10%"/>
             <ProgressBar title="PERN (PostgreSql, Express JS, React Js, Node JS)" width ="30%"/>
             <ProgressBar title="REACT NATIVE" width ="25%"/>

@@ -26,10 +26,10 @@ function Experience() {
             <div className="w-full flex justify-start items-center gap-20">
                 <button className="w-64  p-2 bg-[#cf6f77] hover:bg-[#B9525B] font-semibold text-white">Prendre un rendez-vous</button>
                 <div className="flex justify-start items-center gap-8">
-                    <Link to='/gmail'><SiGmail size={30}/></Link>
-                    <Link to='/linkedin'><FaLinkedin size={30}/></Link>
-                    <Link to='/twitter'><FaSquareXTwitter size={30}/></Link>
-                    <Link to='/facebook'><FaSquareFacebook size={30}/></Link>
+                    <Link to='/gmail'><SiGmail size={30} className="hover:text-[#ec6060]"/></Link>
+                    <Link to='/linkedin'><FaLinkedin size={30} className="hover:text-[#4ca8d3]"/></Link>
+                    <Link to='/twitter'><FaSquareXTwitter size={30} className="hover:text-[#000000]"/></Link>
+                    <Link to='/facebook'><FaSquareFacebook size={30} className="hover:text-[#495bff]"/></Link>
                 </div>
             </div>
         </div>

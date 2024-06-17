@@ -1,6 +1,6 @@
 
 
-function ProgressBar({title,width}) {
+function ProgressBar({width, title}) {
   return (
     <div className='w-full flex flex-col gap-2 p-2'>
         <h4 className="font-bold text-[16px]">{title}</h4>
