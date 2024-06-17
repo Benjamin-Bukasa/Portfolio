@@ -14,7 +14,7 @@ export default {
   ],
   theme: {
     screens:{
-      'vsm':'280px',
+      'vsm':'380px',
       // => @media (min-width:280px){ ... }
       'ssm':'640px',
       // => @media (min-width:640px){ ... }
